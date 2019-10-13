@@ -1,0 +1,31 @@
+.container {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.type {
+  text-align: left;
+  padding-left: 50px;
+}
+
+.type::first-letter {
+  text-transform: uppercase;
+}
+
+th {
+  background-color: deepskyblue;
+}
+
+tr {
+  height: 30px;
+  width: 33.3%;
+  text-align: center;
+}
+
+.gray {
+  background-color: silver;
+}
+
+.white {
+  background-color: #fff;
+}
